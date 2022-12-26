@@ -1,0 +1,21 @@
+{
+    "testFiles": "**/*.{feature,features}",
+   "retries": {
+    "runMode":1,
+    "openMode":2
+   },
+    "failOnStatusCode":true,
+   "pageLoadTimeout":100000,
+      "viewportWidth": 1920,
+      "viewportHeight": 1080,
+      "execTimeout":60000,
+     "experimentalSessionAndOrigin":true,
+  "env":{
+    "GitUserName":"akshay2942",
+    "GitPass":"Akshay@2942",
+    "gitUrl":"https://github.com/"
+  }
+  }
+
+
+  
