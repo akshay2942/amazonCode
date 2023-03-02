@@ -6,16 +6,16 @@
    },
     "failOnStatusCode":true,
    "pageLoadTimeout":100000,
-      "viewportWidth": 1920,
-      "viewportHeight": 1080,
+   
       "execTimeout":60000,
      "experimentalSessionAndOrigin":true,
+     "viewportWidth": 1920,
+     "viewportHeight": 1080,
+  "baseUrl":"https://www.goibibo.com/",
   "env":{
     "GitUserName":"akshay2942",
     "GitPass":"Akshay@2942",
     "gitUrl":"https://github.com/"
   }
-  }
 
-
-  
+}
